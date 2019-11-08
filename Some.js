@@ -33,18 +33,18 @@ class Cat extends Animal {
         this.eatList = (eatList || ['']);
     }
 
-    getEatList() {
+    getCanEatList() {
         return this.eatList;
     }
 }
 
 const tiger = new Animal('ttt');
 const dog = new Dog('foo', '土狗');
-const cat = new Cat('www', ['魚', '罐罐']);
+const cat = new Cat('www', ['巧克力', '大蒜']);
 
 tiger.say('吼');
 dog.say('汪');
 cat.say('喵');
 
 console.log(`${dog.getName()} 的品種是 ${dog.getType()}.`);
-console.log(`${cat.getName()} 會吃的食物有： ${cat.getEatList().join(', ')}.`);
+console.log(`${cat.getName()} 不會吃的食物有： ${cat.getCanEatList().join(', ')}.`);
