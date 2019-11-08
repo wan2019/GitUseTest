@@ -46,5 +46,8 @@ tiger.say('吼');
 dog.say('汪');
 cat.say('喵');
 
-console.log(`${dog.getName()} 的品種是 ${dog.getType()}.`);
-console.log(`${cat.getName()} 會吃的食物有： ${cat.getEatList().join(', ')}.`);
+
+
+console.log(123);
+console.log('dog');
+
