@@ -49,48 +49,15 @@ cat.say('喵');
 console.log(`${dog.getName()} 的品種是 ${dog.getType()}.`);
 console.log(`${cat.getName()} 不會吃的食物有： ${cat.getCanEatList().join(', ')}.`);
 
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
->>>>>>> master
-//aa
-//bb
-//cc
-//dd
-// xxxx
-<<<<<<< HEAD
-=======
-// dev
-<<<<<<< Updated upstream
-=======
-<<<<<<< Updated upstream
-=======
-=======
-// dev
->>>>>>> master
-// dev
-// ggg
->>>>>>> Stashed changes
-// ggg
-<<<<<<< HEAD
-=======
-// ggg
->>>>>>> Stashed changes
->>>>>>>>> Temporary merge branch 2
-// yyy
-// zzz
 
-
-const struct = {
+const struct = { // abc
 	BIConfig: {
 		blocklyXml: '',    //節點區域配置的XML
 	},
 	supportData: {
 		regulators: [ {		// regulatorsData
 			id: '',
-            yyy: '',
 			text: '',
-            bbc: '',
 			description: '',
 			tags: [ {
 				id: '',
