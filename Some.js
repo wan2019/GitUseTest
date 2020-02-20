@@ -63,6 +63,7 @@ console.log(`${cat.getName()} 不會吃的食物有： ${cat.getCanEatList().joi
 >>>>>>> Stashed changes
 // ggg
 >>>>>>> Stashed changes
+// ggg
 // yyy
 // zzz
 
@@ -73,6 +74,7 @@ const struct = { // bbbbbbbbbbbbbbbbbb
 	supportData: {
 		regulators: [ {		// regulatorsData
 			id: '',
+            yyy: '',
 			text: '',
             bbc: '',
 			description: '',
