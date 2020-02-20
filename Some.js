@@ -49,22 +49,35 @@ cat.say('喵');
 console.log(`${dog.getName()} 的品種是 ${dog.getType()}.`);
 console.log(`${cat.getName()} 不會吃的食物有： ${cat.getCanEatList().join(', ')}.`);
 
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> master
 //aa
 //bb
 //cc
 //dd
 // xxxx
+<<<<<<< HEAD
 =======
 // dev
 <<<<<<< Updated upstream
+=======
+<<<<<<< Updated upstream
+=======
+=======
+// dev
+>>>>>>> master
 // dev
 // ggg
 >>>>>>> Stashed changes
 // ggg
+<<<<<<< HEAD
 =======
 // ggg
 >>>>>>> Stashed changes
+=======
+>>>>>>> master
 >>>>>>> Stashed changes
 // yyy
 // zzz
