@@ -49,7 +49,7 @@ cat.say('喵');
 console.log(`${dog.getName()} 的品種是 ${dog.getType()}.`);
 console.log(`${cat.getName()} 不會吃的食物有： ${cat.getCanEatList().join(', ')}.`);
 
-// xxxx
+// ggg
 // yyy
 // zzz
 
