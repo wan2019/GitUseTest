@@ -49,7 +49,9 @@ cat.say('喵');
 console.log(`${dog.getName()} 的品種是 ${dog.getType()}.`);
 console.log(`${cat.getName()} 不會吃的食物有： ${cat.getCanEatList().join(', ')}.`);
 
-
+// xxxx
+// yyy
+// zzz
 
 const struct = { // bbbbbbbbbbbbbbbbbb
 	BIConfig: {
@@ -59,6 +61,7 @@ const struct = { // bbbbbbbbbbbbbbbbbb
 		regulators: [ {		// regulatorsData
 			id: '',
 			text: '',
+            bbc: '',
 			description: '',
 			tags: [ {
 				id: '',
