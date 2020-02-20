@@ -80,9 +80,10 @@ console.log(`${cat.getName()} 不會吃的食物有： ${cat.getCanEatList().joi
 // yyy
 // zzz
 
-const struct = { // bbbbbbbbbbbbbbbbbb
+
+const struct = {
 	BIConfig: {
-		blocklyXml: '',    // 節點區域配置的XML
+		blocklyXml: '',    //節點區域配置的XML
 	},
 	supportData: {
 		regulators: [ {		// regulatorsData
