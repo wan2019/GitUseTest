@@ -89,6 +89,7 @@ const struct = { // bbbbbbbbbbbbbbbbbb
 	supportData: {
 		regulators: [ {		// regulatorsData
 			id: '',
+            yyy: '',
 			text: '',
             bbc: '',
 			description: '',
