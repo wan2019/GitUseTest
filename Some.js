@@ -54,6 +54,15 @@ console.log(`${cat.getName()} 不會吃的食物有： ${cat.getCanEatList().joi
 //cc
 //dd
 // xxxx
+<<<<<<< Updated upstream
+=======
+=======
+// dev
+// dev
+// ggg
+>>>>>>> Stashed changes
+// ggg
+>>>>>>> Stashed changes
 // yyy
 // zzz
 
