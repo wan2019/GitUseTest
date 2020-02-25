@@ -53,9 +53,6 @@ console.log(`${cat.getName()} 會吃的食物有： ${cat.getEatList().join(', '
 
 console.log(123);
 console.log('dog');
-console.log(989);
-
-console.log(119);
 
 
 
