@@ -3,3 +3,4 @@
 // ajax Fn
 
 // add Chart Class
+// render line color
