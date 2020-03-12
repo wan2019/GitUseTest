@@ -12,3 +12,7 @@
 // ajax realtime data
 // ajaxData to view
 // loop require
+
+// add setting page
+// form 1
+// form 2
