@@ -67,3 +67,28 @@ const struct = { // abc
 		}, ... ],
 	},
 }
+console.log(`${dog.getName()} 的品種是 ${dog.getType()}.`);	console.log(`${dog.getName()} 的品種是 ${dog.getType()}.`);
+console.log(`${cat.getName()} 會吃的食物有： ${cat.getEatList().join(', ')}.`);
+
+const struct = { // abc
+	BIConfig: {
+		blocklyXml: '',    //節點區域配置的XML
+	},
+	supportData: {
+		regulators: [ {		// regulatorsData
+			id: '',
+			text: '',
+			description: '',
+			tags: [ {
+				id: '',
+				text: '',
+				description: '',
+			}, ... ],
+		}, ... ],
+	},
+}
+
+console.log(123);
+console.log('dog');
+console.log(89);
+console.log(889);
